@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "laba1pyz", "laba1pyz\laba1pyz.vcxproj", "{65586955-539A-4F3C-9E74-7AF7165CF091}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65586955-539A-4F3C-9E74-7AF7165CF091}.Debug|Win32.ActiveCfg = Debug|Win32
+		{65586955-539A-4F3C-9E74-7AF7165CF091}.Debug|Win32.Build.0 = Debug|Win32
+		{65586955-539A-4F3C-9E74-7AF7165CF091}.Release|Win32.ActiveCfg = Release|Win32
+		{65586955-539A-4F3C-9E74-7AF7165CF091}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
